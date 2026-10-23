@@ -1,7 +1,7 @@
 # Trabalho em Grupo – LÓGICA DE PROGRAMAÇÃO II 
 # Professor: Lukas Rocha Rodrigues
-# Alunos: Marcos Willian, Maria do Socorro, Tailana Guerreiro
-# Grupo MMT - Gordinhas Tech
+# Alunos: Marcos Willian
+# Grupo MMT 
 # Sistema de cadastro de alunos – Escola Técnica MMT
 
 class Pessoa:
